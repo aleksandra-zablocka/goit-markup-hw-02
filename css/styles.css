@@ -1,0 +1,151 @@
+:root {
+  --text-black: #212121;
+  --text-grey: #757575;
+  --text-blue: #2196f3;
+  --text-white: #ffffff;
+  --bg-white: #ffffff;
+  --bg-grey: #f5f4fa;
+  --bg-dark-grey: #2f303a;
+  --bg-blue: #2196f3;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1, 714;
+  color: #757575;
+}
+
+ul {
+  list-style: none;
+}
+
+/*.header {
+  position: absolute;
+  width: 1600px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+}*/
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 1, 17;
+  color: #000000;
+  text-decoration: none;
+}
+
+.navigation-li {
+  text-decoration: none;
+  font-weight: 500;
+  color: var(--text-black);
+}
+
+.navigation-li:focus,
+.navigation-li:hover {
+  color: var(--text-blue);
+}
+
+.header-li {
+  text-decoration: none;
+  font-weight: 500;
+  color: var(--text-grey);
+}
+
+.header-li:focus,
+.header-li:hover {
+  color: var(--text-blue);
+}
+
+.sec-1 {
+  background-color: var(--bg-dark-grey);
+  /*position: absolute;
+  width: 1600px;
+  height: 600px;
+  left: 0px;
+  top: 80px;*/
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1, 3636;
+  text-align: center;
+  color: var(--text-white);
+}
+
+.button-sec-1 {
+  background-color: var(--bg-blue);
+  color: var(--text-white);
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1, 875;
+  /*position: absolute;
+  width: 200px;
+  height: 50px;
+  left: 700px;
+  top: 430px;*/
+}
+
+.h4-sec-2 {
+  color: var(--text-black);
+  font-weight: 700;
+}
+
+/*.p-sec-2 {
+
+}*/
+
+.h2-sec-3 {
+  color: var(--text-black);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1, 1719;
+}
+
+.sec-4 {
+  background-color: var(--bg-grey);
+}
+
+.h2-sec-4 {
+  color: var(--text-black);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1, 1719;
+}
+
+.h3-sec-4 {
+  color: var(--text-black);
+  font-weight: 500;
+  line-height: 1, 1718;
+}
+
+.p-sec-4 {
+  font-size: 16px;
+  line-height: 1, 1718;
+}
+
+.footer {
+  background-color: var(--bg-dark-grey);
+}
+
+.logo2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 1, 17;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.address {
+  font-style: normal;
+  color: var(--text-white);
+  text-decoration: none;
+}
+
+.address-mail,
+.address-tel {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 60%);
+}

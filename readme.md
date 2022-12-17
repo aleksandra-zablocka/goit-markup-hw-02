@@ -1,1 +1,1 @@
-https://aleksandra-zablocka.github.io/goit-markup-hw-01/
+https://aleksandra-zablocka.github.io/goit-markup-hw-02/
