@@ -144,6 +144,15 @@ ul {
   text-decoration: none;
 }
 
+.address-address:focus,
+.address-address:hover,
+.address-mail:focus,
+.address-mail:hover,
+.address-tel:focus,
+.address-tel:hover {
+  color: var(--text-blue);
+}
+
 .address-mail,
 .address-tel {
   text-decoration: none;
