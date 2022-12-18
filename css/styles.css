@@ -13,7 +13,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 14px;
-  line-height: 1, 714;
+  line-height: 1.714;
   color: #757575;
 }
 
@@ -25,7 +25,7 @@ ul {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 28px;
-  line-height: 1, 17;
+  line-height: 1.17;
   color: #000000;
   text-decoration: none;
 }
@@ -56,7 +56,7 @@ ul {
   background-color: var(--bg-dark-grey);
   font-weight: 900;
   font-size: 44px;
-  line-height: 1, 3636;
+  line-height: 1.3636;
   text-align: center;
   color: var(--text-white);
 }
@@ -66,7 +66,7 @@ ul {
   color: var(--text-white);
   font-weight: 700;
   font-size: 16px;
-  line-height: 1, 875;
+  line-height: 1.875;
 }
 
 .h4-sec-2-index {
@@ -78,7 +78,7 @@ ul {
   color: var(--text-black);
   font-weight: 700;
   font-size: 36px;
-  line-height: 1, 1719;
+  line-height: 1.1719;
 }
 
 .sec-4-index {
@@ -89,18 +89,18 @@ ul {
   color: var(--text-black);
   font-weight: 700;
   font-size: 36px;
-  line-height: 1, 1719;
+  line-height: 1.1719;
 }
 
 .h3-sec-4-index {
   color: var(--text-black);
   font-weight: 500;
-  line-height: 1, 1718;
+  line-height: 1.1719;
 }
 
 .p-sec-4-index {
   font-size: 16px;
-  line-height: 1, 1718;
+  line-height: 1.1719;
 }
 
 .footer {
@@ -111,7 +111,7 @@ ul {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 28px;
-  line-height: 1, 17;
+  line-height: 1.1719;
   color: #ffffff;
   text-decoration: none;
 }
@@ -142,7 +142,7 @@ ul {
   background-color: var(--bg-grey);
   border: none;
   font-size: 16px;
-  line-height: 1, 625;
+  line-height: 1.625;
   font-weight: 500;
 }
 
@@ -152,7 +152,7 @@ ul {
   background-color: var(--bg-blue);
   border: none;
   font-size: 16px;
-  line-height: 1, 625;
+  line-height: 1.625;
   font-weight: 500;
 }
 
@@ -169,5 +169,5 @@ ul {
 
 .p-sec-2-portfolio {
   font-size: 16px;
-  line-height: 1, 875;
+  line-height: 1.875;
 }
