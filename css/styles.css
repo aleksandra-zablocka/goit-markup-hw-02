@@ -49,20 +49,10 @@ body {
   color: var(--text-dark-grey);
 }
 
-.navigation li a:focus,
-.navigation li a:hover {
-  color: var(--text-blue);
-}
-
 .header-address li a {
   text-decoration: none;
   font-weight: 500;
   color: var(--text-grey);
-}
-
-.header-address li a:focus,
-.header-address li a:hover {
-  color: var(--text-blue);
 }
 
 .sec-1-index {
@@ -127,15 +117,6 @@ body {
   text-decoration: none;
 }
 
-.address-address:focus,
-.address-address:hover,
-.address-mail:focus,
-.address-mail:hover,
-.address-tel:focus,
-.address-tel:hover {
-  color: var(--text-blue);
-}
-
 .address-mail,
 .address-tel {
   text-decoration: none;
@@ -176,4 +157,17 @@ body {
 .p-sec-2-portfolio {
   font-size: 16px;
   line-height: 1.87;
+}
+
+.navigation li a:focus,
+.navigation li a:hover,
+.header-address li a:focus,
+.header-address li a:hover,
+.address-address:focus,
+.address-address:hover,
+.address-mail:focus,
+.address-mail:hover,
+.address-tel:focus,
+.address-tel:hover {
+  color: var(--text-blue);
 }
