@@ -64,6 +64,12 @@ body {
   color: var(--text-white);
 }
 
+.sec-1-title-index {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+}
+
 .button-sec-1-index {
   background-color: var(--bg-blue);
   color: var(--text-white);
