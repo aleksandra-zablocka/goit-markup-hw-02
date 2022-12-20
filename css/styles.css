@@ -64,13 +64,13 @@ body {
   color: var(--text-white);
 }
 
-.sec-1-title-index {
+.title-sec-1-index {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
 }
 
-.button-sec-1-index {
+.but-sec-1-index {
   background-color: var(--bg-blue);
   color: var(--text-white);
   font-weight: 700;
@@ -79,12 +79,12 @@ body {
   cursor: pointer;
 }
 
-.h4-sec-2-index {
+.header4-sec-2-index {
   color: var(--text-dark-grey);
   font-weight: 700;
 }
 
-.h2-sec-3-index {
+.header2-sec-3-index {
   color: var(--text-dark-grey);
   font-weight: 700;
   font-size: 36px;
@@ -95,29 +95,29 @@ body {
   background-color: var(--bg-grey);
 }
 
-.h2-sec-4-index {
+.header2-sec-4-index {
   color: var(--text-dark-grey);
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
 }
 
-.h3-sec-4-index {
+.header3-sec-4-index {
   color: var(--text-dark-grey);
   font-weight: 500;
   line-height: 1.17;
 }
 
-.p-sec-4-index {
+.par-sec-4-index {
   font-size: 16px;
   line-height: 1.17;
 }
 
-.footer {
+.foot {
   background-color: var(--bg-dark-grey);
 }
 
-.address {
+.addr {
   font-style: normal;
   color: var(--text-white);
   text-decoration: none;
@@ -149,18 +149,18 @@ body {
   font-weight: 500;
 }
 
-.figure-sec2-portfolio {
+.fig-sec2-portfolio {
   border: 1px solid var(--border-grey);
 }
 
-.h3-sec-2-portfolio {
+.header3-sec-2-portfolio {
   color: var(--text-dark-grey);
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
 }
 
-.p-sec-2-portfolio {
+.par-sec-2-portfolio {
   font-size: 16px;
   line-height: 1.87;
 }
